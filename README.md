@@ -1,8 +1,10 @@
 # Hi there , I'm Ronald Cober :wave:
 
-<img src="https://github-readme-stats.vercel.app/api?username=TiberiusRC&show_icons=true&theme=merko&border_radius=20"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TiberiusRC&show_icons=true&theme=merko&border_radius=20&include_all_commits=true&count_private=true&hide=stars,prs,contribs"/>
 
 > This is my private GIT , so there will not be as many stats shown (At the moment)
+
+---
 
 ### Languages and tools i'm currently working with :
 
@@ -11,6 +13,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+---
 
 ### Other languages i'm familiar with : 
 
@@ -19,6 +22,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+---
 
 ### My favorite IDE's and editor's :
 
@@ -31,6 +35,8 @@
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+---
+
 ### Testing tools and version control i'm familiar with : 
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
@@ -38,6 +44,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+---
 
 ### My favorite educational goto's :
 
@@ -47,6 +55,8 @@
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
 
 ### The only Social media that i use :stuck_out_tongue_winking_eye:  :
 
